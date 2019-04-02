@@ -1,0 +1,37 @@
+# site settings
+title: Adrien Gauvry
+subtitle: 
+email: adrien.gauvry@gmail.com
+description: Je m'appelle Adrien Gauvry, je suis actuellement étudiant en informatique. C'est en particulier le web qui me passionne dans ce domaine, vous pourrez d'ailleurs trouver sur mon site différent projets de web ou non qui illustrent ce que j'ai appris.
+
+baseurl: "/adgauvry" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address: 
+city: 
+state: 
+zip_code: 
+country: 
+phone: 0666081989
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url: https://gitlab.com/u/andrewbanchich
+googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+instagram_url: https://instagram.com
+linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/andrewbanchich
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
