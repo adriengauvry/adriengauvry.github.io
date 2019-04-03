@@ -23,7 +23,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a class="image">
-			<img src="assets/images/site.png" alt="" data-position="center center" />
+			<img src="assets/images/sitei.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -56,7 +56,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a class="image">
-			<img src="assets/images/dbz.png" alt="" data-position="25% 25%" />
+			<img src="assets/images/dbzi.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
