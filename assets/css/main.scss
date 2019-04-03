@@ -78,3 +78,25 @@
 	@import 'layout/footer';
 	@import 'layout/wrapper';
 	@import 'layout/menu';
+
+
+* {box-sizing:border-box}
+
+
+.container {
+  width: 100%; 
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right; 
+  padding: 10px; 
+  color: white; 
+}
+
+.html {width: 80%; background-color: #4CAF50;} 
+.css {width: 75%; background-color: #2196F3;} 
+.js {width: 85%; background-color: #f44336;} 
+.php {width: 80%; background-color: #808080;} 
+.java {width: 75%; background-color: #d1c515;} 
+.csh {width: 65%; background-color: #380B61;} 
