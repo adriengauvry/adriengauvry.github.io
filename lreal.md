@@ -22,7 +22,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="skills.html" class="image">
+		<a class="image">
 			<img src="assets/images/site.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -38,7 +38,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="skills.html" class="image">
+		<a class="image">
 			<img src="assets/images/ico.png" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -55,17 +55,17 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="skills.html" class="image">
-			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+		<a class="image">
+			<img src="assets/images/dbz.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Dragon Ball Z pour les nuls</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Un simple site vitrine one page que j'ai réalisé en première année de mon DUT afin de découvrir l'utilisation de Bootstrap</p>
 				<ul class="actions">
-					<li><a href="skills.html" class="button">Learn more</a></li>
+
 				</ul>
 			</div>
 		</div>
