@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Mon site</h3>
 				</header>
-				<p>Et oui, après tout le site sur lequel vous vous trouvez actuellement fait parti de mes réalisation. Je l'ai réalisé avec Jekyll qui est un générateur de site statique avec le thème Forty. Cela permet de créer un site avec un bon design assez simplement.</p>
+				<p>Et oui, après tout le site sur lequel vous vous trouvez actuellement fait parti de mes réalisation. Je l'ai réalisé avec Jekyll qui est un générateur de sites statiques avec le thème Forty. Cela permet de créer un site avec un bon design assez simplement.</p>
 				<ul class="actions">
 					<li><a href="https://github.com/adriengauvry/adriengauvry.github.io" target="_blank" class="button">Voir le projet sur Github</a></li>
 				</ul>
@@ -46,7 +46,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Icosaèdre deliquescent</h3>
 				</header>
-				<p>Sans doute le plus gros projet sur lequel j'ai eu l'occasion de travailler. Icosaèdre deliquescent est une application web qui a pour but la gestion de parties de jeu de rôle. Nous étions 5 personnes à participer à ce projet. Je me suis occupé avec une autre personne de la partie front-end de l'application. Ce projet m'a permis de découvrir React, associé à Material UI qui permet d'utiliser la norme material design de Google. Ce projet a permis d'améliorer mes connaissances en matière de technologies web, en dehors des matières obligatoires dans le programme du DUT.</p>
+				<p>Sans doute le plus gros projet sur lequel j'ai eu l'occasion de travailler. Icosaèdre deliquescent est une application web qui a pour but la gestion de parties de jeu de rôle. Nous étions 5 personnes à avoir travaillé sur ce projet. Je me suis occupé avec une autre personne de la partie front-end de l'application. Ce projet m'a permis de découvrir React, associé à Material UI qui permet d'utiliser la norme material design de Google. Ce projet a permis d'améliorer mes connaissances en matière de technologies web, en dehors des matières obligatoires dans le programme du DUT.</p>
 				<ul class="actions">
 					<li><a href="https://github.com/adriengauvry/Icosaedre-Deliquescent" target="_blank" class="button">Voir le projet sur Github</a></li>
 					<li><a href="https://ico-dqct.herokuapp.com" target="_blank" class="button">Tester maintenant !</a></li>
